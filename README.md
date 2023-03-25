@@ -8,7 +8,7 @@ This is a script that automates the process of creating a new Express.js project
 
 2. Open a terminal or command prompt and navigate to the directory where the script is located.
 
-3. Run the script using the following command: `start setup_server.bat`
+3. Run the script using the following command: `start setup.bat`
 
 \*The script will check if Node.js is installed, install it if necessary, and then proceed to create a new Node.js project.
 

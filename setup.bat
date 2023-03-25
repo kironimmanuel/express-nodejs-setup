@@ -19,7 +19,7 @@ call npm install --global prettier
 setlocal EnableDelayedExpansion
 
 set "base_dir=%USERPROFILE%\projects"
-set "project_name=new_nodejs_project"
+set "project_name=new_express_project"
 set "project_dir=%base_dir%\%project_name%"
 
 if not exist "%project_dir%" (
